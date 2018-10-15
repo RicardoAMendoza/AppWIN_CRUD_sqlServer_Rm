@@ -1,0 +1,65 @@
+
+
+
+…or create a new repository on the command line
+echo "# prjWin_NationalBank_Rm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/RicardoAMendoza/prjWin_NationalBank_Rm.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/RicardoAMendoza/prjWin_NationalBank_Rm.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+C# Events and Delegates Made Simple
+https://www.youtube.com/watch?v=jQgwEsJISy0
+
+CRUD MVC C# Sql server
+https://www.youtube.com/watch?v=_H8vswpMSOw&t=650s
+
+C# Databases
+https://www.youtube.com/watch?v=OdDkFPO_nto
+
+The Strategy Pattern
+https://www.youtube.com/watch?v=94t2ayF1l3o&t=316s
+
+How to write a PDF
+https://www.youtube.com/watch?v=e1uMdAG8L3Y&t=40s
+https://sourceforge.net/projects/itextsharp/
+
+concepts
+TD2 : Diagramme de classes UML
+https://lipn.univ-paris13.fr/~gerard/docs/corrections/uml-corr02.pdf
+
+OOP interview questions :- What is the difference between Abstraction and Encapsulation ?
+https://www.youtube.com/watch?v=1Q4I63-hKcY
+https://stackoverflow.com/questions/16938667/how-abstraction-and-encapsulation-differ
+
+
+SQL Server Developer
+https://www.microsoft.com/en-ca/sql-server/sql-server-2017-editions#CP_StickyNav_1
+
+CONNECTION STRING
+Server=localhost;Database=master;Trusted_Connection=True;
+
+SQL SERVER INSTALL LOG FOLDER
+C:\Program Files\Microsoft SQL Server\140\Setup Bootstrap\Log\20180920_041710
+
+INSTALLATION MEDIA FOLDER
+C:\SQLServer2017Media\Developer_ENU
+
+INSTALLATION RESOURCES FOLDER
+C:\Program Files\Microsoft SQL Server\140\SSEI\Resources
+
+SQL ADMINISTRATORS (it is going to be used)
+RICARDOMENDOZA\Ricardo Mendoza
+
+NT Service\MSSQLSERVER
+
+Database default locations
+Data : C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\
+
+

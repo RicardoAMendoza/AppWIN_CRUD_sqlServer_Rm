@@ -1,0 +1,4 @@
+
+- functions sql server
+- left join
+- right join

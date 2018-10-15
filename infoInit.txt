@@ -1,0 +1,9 @@
+1. create repository in GitHub : AppWIN_CRUD_sqlServer_Rm
+2. create file : prjWIn_App_CRUD_sqlServer_Rm
+3. open git Bash
+4. create README.md inside prjWIn_App_CRUD_sqlServer_Rm
+   git init
+5. git add README.md
+6. git commit -m "first commit"
+7. git remote add origin https://github.com/RicardoAMendoza/AppWIN_CRUD_sqlServer_Rm.git
+8. git push -u origin master

@@ -1,0 +1,4 @@
+idtransaction,balance,transactionDate,comission,overdraft,interestRate,idaccount,idclient,idemployee,idagencies
+1,10000.990000,"2018-09-05 22:43:56",0.120000,2000.000000,0.000000,4,5,5,2
+2,2999.000000,"2018-09-05 22:43:45",0.120000,2000.000000,0.000000,2,2,2,1
+3,4999.990000,NULL,0.120000,2000.000000,0.000000,3,3,3,1

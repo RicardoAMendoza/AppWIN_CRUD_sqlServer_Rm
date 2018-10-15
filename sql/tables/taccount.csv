@@ -1,0 +1,5 @@
+idaccount,number,balance,openDate,idemployee,idagencies
+1,UA1UA1,2300.990000,NULL,1,1
+2,UA2UA2,2999.000000,NULL,2,1
+3,UA3UA3,4999.990000,NULL,3,1
+4,UA4UA4,10000.990000,NULL,5,2

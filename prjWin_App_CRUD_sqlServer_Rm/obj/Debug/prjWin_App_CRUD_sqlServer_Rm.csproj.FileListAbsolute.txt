@@ -1,0 +1,2 @@
+c:\users\ricardo mendoza\documents\visual studio 2015\Projects\prjWin_App_CRUD_sqlServer_Rm\prjWin_App_CRUD_sqlServer_Rm\bin\Debug\prjWin_App_CRUD_sqlServer_Rm.exe.config
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\prjWin_App_CRUD_sqlServer_Rm\bin\Debug\prjWin_App_CRUD_sqlServer_Rm.exe.config

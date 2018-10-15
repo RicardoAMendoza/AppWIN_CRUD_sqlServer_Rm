@@ -1,0 +1,7 @@
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\bin\Debug\1.Model.dll
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\bin\Debug\1.Model.pdb
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\bin\Debug\3.Control.dll
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\bin\Debug\3.Control.pdb
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\obj\Debug\1.Model.dll
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\obj\Debug\1.Model.pdb
+D:\10.Portafolio\prjWin_App_CRUD_sqlServer_Rm\1.Model\obj\Debug\1.Model.csprojResolveAssemblyReference.cache
